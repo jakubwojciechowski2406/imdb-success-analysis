@@ -1,5 +1,4 @@
 # imdb-success-analysis
-# IMDb Movie Success Analysis
 
 Logistic regression analysis of factors associated with high IMDb ratings, based on the IMDb Top 1000 Movies dataset.
 
