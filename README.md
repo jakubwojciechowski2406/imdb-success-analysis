@@ -40,7 +40,7 @@ Identify which movie characteristics are associated with a higher probability of
 
 ### Predicted probability of success vs popularity
 
-![Predicted probability](Plots/predicted_probability.png)
+![Predicted probability](Plots/Rplot4.png)
 
 | Number of votes | Predicted P(success) |
 |---|---|
