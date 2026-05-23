@@ -69,13 +69,13 @@ Identify which movie characteristics are associated with a higher probability of
 ## 7. How to reproduce
 
 1. Clone this repository
-2. Make sure `imdb_top_1000.csv` is in the same folder as `imdb_analysis.R`
+2. Make sure `imdb_top_1000.csv` is in the same folder as `Jakub_Wojciechowski_49872_Final_Project_Script.R`
 3. Open in RStudio and run the script
 4. Required package: `car` (for VIF)
 
 ## 8. Files
 
-- `imdb_analysis.R` — main R script (data prep, EDA, modeling, predictions)
+- `Jakub_Wojciechowski_49872_Final_Project_Script.R` — main R script (data prep, EDA, modeling, predictions)
 - `imdb_top_1000.csv` — dataset
 - `plots/` — generated visualizations
 - `docs/report.pdf` — full project report
