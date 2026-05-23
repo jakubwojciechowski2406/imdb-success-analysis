@@ -77,9 +77,9 @@ Identify which movie characteristics are associated with a higher probability of
 
 - `Jakub_Wojciechowski_49872_Final_Project_Script.R` — main R script (data prep, EDA, modeling, predictions)
 - `imdb_top_1000.csv` — dataset
-- `plots/` — generated visualizations
-- `docs/report.pdf` — full project report
-- `docs/presentation.pdf` — slide deck
+- `Plots/` — generated visualizations
+- `Docs/report.pdf` — full project report
+- `Docs/presentation.pdf` — slide deck
 
 ## 9. Use of AI tools
 
